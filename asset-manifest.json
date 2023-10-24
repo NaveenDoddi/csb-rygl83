@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "https://naveendoddi.github.io/csb-rygl83/static/css/main.8931a3d2.chunk.css",
+    "main.js": "https://naveendoddi.github.io/csb-rygl83/static/js/main.61a7202a.chunk.js",
+    "main.js.map": "https://naveendoddi.github.io/csb-rygl83/static/js/main.61a7202a.chunk.js.map",
+    "runtime-main.js": "https://naveendoddi.github.io/csb-rygl83/static/js/runtime-main.95e61ae7.js",
+    "runtime-main.js.map": "https://naveendoddi.github.io/csb-rygl83/static/js/runtime-main.95e61ae7.js.map",
+    "static/js/2.83b3512d.chunk.js": "https://naveendoddi.github.io/csb-rygl83/static/js/2.83b3512d.chunk.js",
+    "static/js/2.83b3512d.chunk.js.map": "https://naveendoddi.github.io/csb-rygl83/static/js/2.83b3512d.chunk.js.map",
+    "static/js/3.47fa84d7.chunk.js": "https://naveendoddi.github.io/csb-rygl83/static/js/3.47fa84d7.chunk.js",
+    "static/js/3.47fa84d7.chunk.js.map": "https://naveendoddi.github.io/csb-rygl83/static/js/3.47fa84d7.chunk.js.map",
+    "index.html": "https://naveendoddi.github.io/csb-rygl83/index.html",
+    "precache-manifest.d244db0f59c42719ccf61f87147a51ac.js": "https://naveendoddi.github.io/csb-rygl83/precache-manifest.d244db0f59c42719ccf61f87147a51ac.js",
+    "service-worker.js": "https://naveendoddi.github.io/csb-rygl83/service-worker.js",
+    "static/css/main.8931a3d2.chunk.css.map": "https://naveendoddi.github.io/csb-rygl83/static/css/main.8931a3d2.chunk.css.map",
+    "static/js/2.83b3512d.chunk.js.LICENSE.txt": "https://naveendoddi.github.io/csb-rygl83/static/js/2.83b3512d.chunk.js.LICENSE.txt",
+    "static/js/main.61a7202a.chunk.js.LICENSE.txt": "https://naveendoddi.github.io/csb-rygl83/static/js/main.61a7202a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95e61ae7.js",
+    "static/js/2.83b3512d.chunk.js",
+    "static/css/main.8931a3d2.chunk.css",
+    "static/js/main.61a7202a.chunk.js"
+  ]
+}
